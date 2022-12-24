@@ -1,6 +1,9 @@
 # Audit-365
-![](assets/Ethereum.png)
+![](assets/Audit-365.png)
 
+---
+
+## What is Audit-365?
 Audit-365 is a challenge for me where I will be posting educational content related to Smart contract auditing and web3 security throughout the 365 days of the year starting from 1st January, 2023 to 31st December, 2023. It will be full of actual content without any fillers.
 
 So, Basically ‘Audit-365’ challenge is divided into 2 parts, 
