@@ -3,25 +3,34 @@
 
 ---
 
-## 🤔What is Audit-365?
+# 🤔What is Audit-365?
 Audit-365 is a challenge for me where I will be posting educational content related to Smart contract auditing and web3 security throughout the 365 days of the year starting from 1st January, 2023 to 31st December, 2023. It will be full of actual content without any fillers.
 
 So, Basically ‘Audit-365’ challenge is divided into 2 parts, 
 
-1. **🐦Audit-365 Daily Swig** -  Daily posts which will include:
-    - Smart contract audit findings from different Auditing Firms like:
-        - [Code4rena](https://code4rena.com/reports/)
-        - [Spearbit](https://github.com/spearbit/portfolio/tree/master/pdfs)
-        - [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
-        - [Sherlock](https://github.com/sherlock-audit)
-        - [Consensys](https://consensys.net/diligence/audits/)
-        - And many more.
-    - Tips/ Tricks on how to find these bugs.
+### 🐦Audit-365 Daily Swigs -  
+I will be sharing daily tweets, twitter threads or post related to Smart contract auditing and web3 security. I will explain audit reports in easy to understand way. Also some tips and tricks on how to approach auditing and finding cool bugs.    
+Daily posts which will include:
+- Smart contract audit findings from different Auditing Firms like:
+    - [Code4rena](https://code4rena.com/reports/)
+    - [Spearbit](https://github.com/spearbit/portfolio/tree/master/pdfs)
+    - [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
+    - [Sherlock](https://github.com/sherlock-audit)
+    - [Consensys](https://consensys.net/diligence/audits/)
+- And many more.
+- Tips/ Tricks on how to find these bugs.
 
-1. **💫Audit-365 Weekly Roundup** - Weekly newsletter that will include:
-    - Weekly Compiled list of explained audit findings. (from Daily Swig)
-    - Resources related to web3 security like videos, articles, etc.
-    - Interesting Tweets/ posts.
+---
+
+### 💫Audit-365 Weekly Roundup - 
+Every week I will post eductional content related to web3 security and smart contract auditing. Also, I will share some amazing videos, articles and tweets             that you might have missed out! 
+
+**Why Subscribe?**   
+There are tons of resources out there, most of them are just junk information. I will filter them all and share only good quality resources without any fillers.   Weekly newsletter that will include:
+- Weekly Compiled list of explained audit findings. (from Daily Swig)
+- Resources related to web3 security like videos, articles, etc.
+- Interesting Tweets/ posts.
+- Some hacking tips, tools, research papers or career advice. 
 
 ---
 
