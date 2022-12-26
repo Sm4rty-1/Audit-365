@@ -32,16 +32,15 @@ So, Basically ‘Audit-365’ challenge is divided into 2 parts,
     - Twitter: [https://twitter.com/Sm4rty_](https://twitter.com/Sm4rty_)
     
 - **Audit-365 Weekly Roundup**
-    - Medium: [https://medium.com/@sm4rty](https://medium.com/@sm4rty)
-    - Substack: [https://sm4rty.substack.com/](https://sm4rty.substack.com/)
+    - Medium: [https://medium.com/@sm4rty](https://medium.com/@sm4rty/list/audit365-weekly-roundup-6fa6c34c3ff7)
+    - Substack: [https://sm4rty.substack.com/](https://sm4rty.substack.com/s/audit-365-weekly-roundup)
 
 ---
 
 | Day | Findings | Severity | Reference Links |
 |---|---|---|---|
 | 01 |  |  |  |
-| 02 |  |  |  |
-| 03 |  |  |  |
+
 
 ----
 
