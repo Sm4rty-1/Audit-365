@@ -45,10 +45,11 @@ There are tons of resources out there, most of them are just junk information. I
     - 📚Substack: [https://sm4rty.substack.com/](https://sm4rty.substack.com/s/audit-365-weekly-roundup)
 
 ---
+## Daily Swig:
 
-| Day | Findings | Severity | Reference Links |
-|---|---|---|---|
-| 01 |  |  |  |
+| Day | Findings | Severity | Category | Thread Links |
+|---|---|---|---| --- |
+| 01 | User's Orders can be  canceled  by anyone and their ETH can be stolen  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609504867386531840) |
 
 
 ----
