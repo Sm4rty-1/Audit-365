@@ -49,8 +49,8 @@ There are tons of resources out there, most of them are just junk information. I
 
 | Day | Findings | Severity | Category | Thread Links |
 |---|---|---|---| --- |
-| 01 | User's Orders can be  canceled  by anyone and their ETH can be stolen  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609504867386531840) |
-
+| 01 | User's Orders can be  canceled  by anyone and their ETH can be stolen  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609504867386531840)
+| 02 | Double transfer in the `transferAndCall` function. | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609867108820582400)
 
 ----
 
