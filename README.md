@@ -51,6 +51,8 @@ There are tons of resources out there, most of them are just junk information. I
 |---|---|---|---| --- |
 | 01 | User's Orders can be  canceled  by anyone and their ETH can be stolen  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609504867386531840)
 | 02 | Double transfer in the `transferAndCall` function. | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1609867108820582400)
+| 03 | Unchecked Return Value from "ecrecover" | Critical | BugFix Reports | [Link](https://twitter.com/Sm4rty_/status/1610229488557637634)
+| 04 | EIP-712 signatures can be re-used | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1610591966244339714)
 
 ----
 
