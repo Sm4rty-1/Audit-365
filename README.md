@@ -54,6 +54,8 @@ There are tons of resources out there, most of them are just junk information. I
 | 03 | Unchecked Return Value from "ecrecover" | Critical | BugFix Reports | [Link](https://twitter.com/Sm4rty_/status/1610229488557637634)
 | 04 | EIP-712 signatures can be re-used | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1610591966244339714)
 | 05 | Use safeCast for changing types | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1610954325886484480)
+| 06 | BLOCK_PERIOD IS INCORRECT | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1611316651093377025)
+| 07 | Insufficient validation of Chainlink Oracle data feed | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1611679147784388608)
 
 ----
 
