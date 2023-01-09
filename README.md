@@ -56,8 +56,8 @@ There are tons of resources out there, most of them are just junk information. I
 | 05 | Use safeCast for changing types | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1610954325886484480)
 | 06 | BLOCK_PERIOD IS INCORRECT | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1611316651093377025)
 | 07 | Insufficient validation of Chainlink Oracle data feed | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1611679147784388608)
-| 07 | 88mph Function Initialization Bug (Reward $42,069) | Medium | BugFix Report | [Link](https://twitter.com/Sm4rty_/status/1612041517559955457)
-| 07 | 700+ Smart contract Bugs, $1 Million Bug Payout, Trust’s Interview, and more | Medium | Weekly Newsletter | [Link](https://twitter.com/Sm4rty_/status/1612403897313755138)
+| 08 | 88mph Function Initialization Bug (Reward $42,069) | Medium | BugFix Report | [Link](https://twitter.com/Sm4rty_/status/1612041517559955457)
+| 09 | 700+ Smart contract Bugs, $1 Million Bug Payout, Trust’s Interview, and more | Medium | Weekly Newsletter | [Link](https://twitter.com/Sm4rty_/status/1612403897313755138)
 
 
 
