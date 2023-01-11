@@ -58,6 +58,9 @@ There are tons of resources out there, most of them are just junk information. I
 | 07 | Insufficient validation of Chainlink Oracle data feed | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1611679147784388608)
 | 08 | 88mph Function Initialization Bug (Reward $42,069) | Critical | BugFix Report | [Link](https://twitter.com/Sm4rty_/status/1612041517559955457)
 | 09 | 700+ Smart contract Bugs, $1 Million Bug Payout, Trust’s Interview, and more | - | Weekly Newsletter | [Link](https://twitter.com/Sm4rty_/status/1612403897313755138)
+| 10 | Sandwich attack due to hardcoded slippage | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1612766281668739075)
+| 11 | Initialize function can be invoked multiple times. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613128590693998593)
+
 
 
 
