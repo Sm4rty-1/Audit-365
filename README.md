@@ -60,6 +60,9 @@ There are tons of resources out there, most of them are just junk information. I
 | 09 | 700+ Smart contract Bugs, $1 Million Bug Payout, Trust’s Interview, and more | - | Weekly Newsletter | [Link](https://twitter.com/Sm4rty_/status/1612403897313755138)
 | 10 | Sandwich attack due to hardcoded slippage | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1612766281668739075)
 | 11 | Initialize function can be invoked multiple times. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613128590693998593)
+| 12 | A Typo leading to locking of Funds | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613491092086788096)
+| 13 | Centralisation RIsk: Owner Of RoyaltyVault Can Take All Funds | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613853466929106944)
+| 14 | Call Return is executed before 'require' check. | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1614215770430373888)
 
 
 
