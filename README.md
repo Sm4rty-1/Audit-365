@@ -63,7 +63,8 @@ There are tons of resources out there, most of them are just junk information. I
 | 12 | A Typo leading to locking of Funds | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613491092086788096)
 | 13 | Centralisation RIsk: Owner Of RoyaltyVault Can Take All Funds | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1613853466929106944)
 | 14 | Call Return is executed before 'require' check. | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1614215770430373888)
-
+| 15 | Reentrancy Vulnerability due to violation of the CEI Pattern. | Critical | Real-life Exploits  | [Link](https://twitter.com/Sm4rty_/status/1614578142160584704)
+| 16 | Zero-Knowledge: A-Z, Web3 Security Tools Lists, Bug Bounty, Defcon CTF, etc | - | Real-life Exploits  | [Link](https://twitter.com/Sm4rty_/status/1614940526871994368)
 
 
 
