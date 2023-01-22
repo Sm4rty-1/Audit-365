@@ -67,7 +67,9 @@ There are tons of resources out there, most of them are just junk information. I
 | 16 | Zero-Knowledge: A-Z, Web3 Security Tools Lists, Bug Bounty, Defcon CTF, etc | - | Weekly Newsletter  | [Link](https://twitter.com/Sm4rty_/status/1614940526871994368)
 | 17 | Lack of access control in the parameterize function of proposal contracts | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1615302917229084673)
 | 18 | Reentrancy Guard Lacking in mint function. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1615665389635002372)
-| 19 | Lender can change NFT valuation oracle without borrower permissio | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1616027831414280196)
+| 19 | Lender can change NFT valuation oracle without borrower permission | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1616027831414280196)
+| 20 | Incorrect airdrop calculation | Critical | Real-life Exploits | [Link](https://twitter.com/Sm4rty_/status/1616390863671922688)
+| 21 | Tokens with more than 18 decimal points will cause issues | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1616752469907750914)
 
 
 
