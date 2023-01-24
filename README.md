@@ -70,6 +70,9 @@ There are tons of resources out there, most of them are just junk information. I
 | 19 | Lender can change NFT valuation oracle without borrower permission | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1616027831414280196)
 | 20 | Incorrect airdrop calculation | Critical | Real-life Exploits | [Link](https://twitter.com/Sm4rty_/status/1616390863671922688)
 | 21 | Tokens with more than 18 decimal points will cause issues | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1616752469907750914)
+| 22 | Cannot unpause exchange | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1617114959405531136)
+| 23 | Zcash Hash Collision, Reversing The EVM, Ice Phishing Attacks and many more. | - | Weekly Newsletter | [Link](https://sm4rty.substack.com/p/audit-365-weekly-roundup-03)
+| 24 | Usage of deprecated ChainLink API | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1617839808851722243)
 
 
 
