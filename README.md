@@ -73,6 +73,10 @@ There are tons of resources out there, most of them are just junk information. I
 | 22 | Cannot unpause exchange | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1617114959405531136)
 | 23 | Zcash Hash Collision, Reversing The EVM, Ice Phishing Attacks and many more. | - | Weekly Newsletter | [Link](https://sm4rty.substack.com/p/audit-365-weekly-roundup-03)
 | 24 | Usage of deprecated ChainLink API | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1617839808851722243)
+| 25 |  Lack of Access control over burn function  | Critical | Real-life Exploits | [Link](https://twitter.com/Sm4rty_/status/1618202020783034369)
+| 26 | Bad Source of Randomness | Critical | Real-life Exploits | [Link](https://twitter.com/Sm4rty_/status/1618564523891335168)
+| 27 | Arbitrary Token Burn | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1618926912465772544)
+| 28 | Users can get unlimited Votes | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1619289203833012225)
 
 
 
