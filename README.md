@@ -78,6 +78,9 @@ There are tons of resources out there, most of them are just junk information. I
 | 27 | Arbitrary Token Burn | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1618926912465772544)
 | 28 | Users can get unlimited Votes | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1619289203833012225)
 | 29 | Incorrect number of seconds in ONE_YEAR variable | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1619651635759747073)
+| 30 | Unnecessary precision loss in _recipientBalance() | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620014007544434688)
+| 31 | Reward Manager of the Convex Base Reward Pool Can DoS processYield() | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620376489324646401)
+| 32 |  Low-level transfer via call() can fail silently | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620738879132246018)
 
 
 
