@@ -81,6 +81,12 @@ There are tons of resources out there, most of them are just junk information. I
 | 30 | Unnecessary precision loss in _recipientBalance() | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620014007544434688)
 | 31 | Reward Manager of the Convex Base Reward Pool Can DoS processYield() | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620376489324646401)
 | 32 |  Low-level transfer via call() can fail silently | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1620738879132246018)
+| 33 |  ERC20 bridging functions do not revert on non-zero msg.value | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1621101124257288192)
+| 34 |  User can escape from paying fees. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1621538139985661955)
+| 35 |  The noContract modifier does not work as expected. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1621831661359960066)
+| 36 |  Sandwich attacks are possible as there is no slippage control | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622259088934535168)
+| 37 |  No checked success for Oracle | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622626433431379970)
+
 
 
 
