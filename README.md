@@ -86,6 +86,15 @@ There are tons of resources out there, most of them are just junk information. I
 | 35 |  The noContract modifier does not work as expected. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1621831661359960066)
 | 36 |  Sandwich attacks are possible as there is no slippage control | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622259088934535168)
 | 37 |  No checked success for Oracle | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622626433431379970)
+| 38 |  HolyPaladinToken.sol uses ERC20 token with a highly unsafe pattern | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622913222348005379)
+| 39 |  Initialize function can be front-runned | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1622626433431379970)
+| 40 |  No upper limit for selling fees (Exit Scam) | High | Real-life Exploits | [Link](https://twitter.com/Sm4rty_/status/1623719503006670851)
+| 41 |  Division before multiplication | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1624090404739068060)
+| 42 |  User specified slippage allows frontrunning | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1624789423991799809)
+| 43 |  Protocol pays swap fees instead of users. | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1624789423991799809)
+| 44 |  call() should be used instead of transfer() on an address payable | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625174382115946497)
+| 45 |  Dust amounts can cause payments to fail, leading to default | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625449971184029700)
+| 46 |  Votes can be amplified due to insufficient checks | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625812401751834625)
 
 
 
