@@ -6,43 +6,8 @@
 # 🤔What is Audit-365?
 Audit-365 is a challenge for me where I will be posting educational content related to Smart contract auditing and web3 security throughout the 365 days of the year starting from 1st January, 2023 to 31st December, 2023. It will be full of actual content without any fillers.
 
-So, Basically ‘Audit-365’ challenge is divided into 2 parts, 
-
-### 🐦Audit-365 Daily Swigs -  
-I will be sharing daily tweets, twitter threads or post related to Smart contract auditing and web3 security. I will explain audit reports in easy to understand way. Also some tips and tricks on how to approach auditing and finding cool bugs.    
-Daily posts which will include:
-- Smart contract audit findings from different Auditing Firms like:
-    - [Code4rena](https://code4rena.com/reports/)
-    - [Spearbit](https://github.com/spearbit/portfolio/tree/master/pdfs)
-    - [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
-    - [Sherlock](https://github.com/sherlock-audit)
-    - [Consensys](https://consensys.net/diligence/audits/)
-- And many more.
-- Tips/ Tricks on how to find these bugs.
-
----
-
-### 💫Audit-365 Weekly Roundup - 
-Every week I will post eductional content related to web3 security and smart contract auditing. Also, I will share some amazing videos, articles and tweets             that you might have missed out! 
-
-**Why Subscribe?**   
-There are tons of resources out there, most of them are just junk information. I will filter them all and share only good quality resources without any fillers.   Weekly newsletter that will include:
-- Weekly Compiled list of explained audit findings. (from Daily Swig)
-- Resources related to web3 security like videos, articles, etc.
-- Interesting Tweets/ posts.
-- Some hacking tips, tools, research papers or career advice. 
-
----
-
-### 👉Follow me for Regular Updates:
-
-- **Audit-365 Daily Swig:**
-    - 🔗LinkedIn: [https://www.linkedin.com/in/sm4rty/](https://www.linkedin.com/in/sm4rty/)
-    - 🐤Twitter: [https://twitter.com/Sm4rty_](https://twitter.com/Sm4rty_)
-    
-- **Audit-365 Weekly Roundup**
-    - Ⓜ️Medium: [https://medium.com/@sm4rty](https://medium.com/@sm4rty/list/audit365-weekly-roundup-6fa6c34c3ff7)
-    - 📚Substack: [https://sm4rty.substack.com/](https://sm4rty.substack.com/s/audit-365-weekly-roundup)
+## Discontinuation of Challenge:
+Unfortunately, I had to discontinue the challenge due to health issues and other priorities. I successfully continued for around 60 days, but had to stop due to other commitments at that point in time. I hope to return soon with even more awesome ideas.
 
 ---
 ## Daily Swig:
@@ -95,9 +60,20 @@ There are tons of resources out there, most of them are just junk information. I
 | 44 |  call() should be used instead of transfer() on an address payable | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625174382115946497)
 | 45 |  Dust amounts can cause payments to fail, leading to default | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625449971184029700)
 | 46 |  Votes can be amplified due to insufficient checks | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1625812401751834625)
-
-
-
+| 47 | Anyone can spend on behalf of roller periphery  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1626174721594105856)
+| 48 | Lack of Access control on Minting tokens.  | Critical | Exploit Findings | [Link](https://twitter.com/Sm4rty_/status/1626539458542575617)
+| 49 |  Bad Source of Randomness leading to break contract | High | Exploit Findings | [Link](https://twitter.com/Sm4rty_/status/1618564523891335268)
+| 50 |  Incorrect Validation leading to a DOS attack | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1627624165892141060)
+| 51 | Pool Manager can front-run fees to 100% | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1627998019143573506)
+| 52 | Precision loss due to division before multiplication | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1628348951479853059)
+| 53 | NFT to be frozen in a contract that does not support ERC721 | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1628711329975484416)
+| 54 |  Lack of sanity check for stoptime | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1629798487586926593)
+| 55 | approve can fail for some tokens | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1630168432938303491)
+| 56 | User specified input allows frontrunning | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1630523209576591361)
+| 57 | Lack of Access Control | Critical | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1630898691505569793)
+| 58 | Incorrect Validation in transferLPs lead to a DOS attack  | Medium | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1631348850622443521)
+| 59 | Wrong deduction of fees  | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1631699159135793152)
+| 60 | Arbitrary transactions possible due to insufficient   | High | Audit Findings | [Link](https://twitter.com/Sm4rty_/status/1633784927396175875)
 
 ----
 
